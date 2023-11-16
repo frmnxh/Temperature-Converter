@@ -26,7 +26,6 @@ This Python code provides functions for converting temperatures between Celsius,
 4. **Example Usage**
 
     ```python
-    # Example usages with manual input:
     celsius_temp = float(input("Enter temperature in Celsius: "))
     kelvin_temp = celsius_to_kelvin(celsius_temp)
     print(f"{celsius_temp} Celsius is equal to {kelvin_temp} Kelvin.")
